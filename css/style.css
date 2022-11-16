@@ -1,0 +1,19 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #d10e0ede;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    }
+.box {
+    width: 500px;
+    height: 500px;
+    background: rgba(24, 0, 238, 0.548);
+    }
+body {
+    margin: 0px;
+    background-color: rgba(0, 17, 252, 0.521);
+    }
